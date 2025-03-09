@@ -400,7 +400,7 @@ __*Git*__ - cистема управления версиями, которая 
 
 ![Изображение logo GIT]([Git-Logo.png](https://commons.wikimedia.org/wiki/File:Git-logo.svg?uselang=ru "Логотип Git")
 
-![gitinit](photos/1скрин.PNG)
-![gitlog](photos/2скрин.PNG)
-![gitcheckout](photos/3скрин.PNG)
-![gitmerge](photos/4скрин.PNG)
+![gitinit](photos/1скрин.png)
+![gitlog](photos/2скрин.png)
+![gitcheckout](photos/3скрин.png)
+![gitmerge](photos/4скрин.png)
