@@ -399,8 +399,4 @@ __*Git*__ - cистема управления версиями, которая 
 * ```git merge <название сливаемой ветки>``` - сливание веток
 
 ![Изображение logo GIT]([Git-Logo.png](https://commons.wikimedia.org/wiki/File:Git-logo.svg?uselang=ru "Логотип Git")
-
-![gitinit](photos/1скрин.png)
-![gitlog](photos/2скрин.png)
-![gitcheckout](photos/3скрин.png)
-![gitmerge](photos/4скрин.png)
+![Изображение1](https://github.com/KrovoDG/Absolut/blob/bdbc97d1e5bebf8f8c1df36dae6dadd5dda602ac/Photos/1%D1%81%D0%BA%D1%80%D0%B8%D0%BD.png)
