@@ -398,4 +398,4 @@ __*Git*__ - cистема управления версиями, которая 
 * ```git branch -D <название ветки>``` - удалить ветку принудительно
 * ```git merge <название сливаемой ветки>``` - сливание веток
 
-![Изображение logo GIT](Git-Logo.png "Логотип Git")
+![Изображение logo GIT]([Git-Logo.png](https://commons.wikimedia.org/wiki/File:Git-logo.svg?uselang=ru "Логотип Git")
